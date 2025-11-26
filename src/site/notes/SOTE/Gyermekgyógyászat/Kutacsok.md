@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/kutacsok/"}
+{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/kutacsok/","hide":true}
 ---
 
 

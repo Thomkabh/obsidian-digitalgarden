@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/a-csecsemo-es-gyermekkori-halalozas-okai/"}
+{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/a-csecsemo-es-gyermekkori-halalozas-okai/","hide":true}
 ---
 
 

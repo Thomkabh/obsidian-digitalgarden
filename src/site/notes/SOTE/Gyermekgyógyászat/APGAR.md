@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/apgar/"}
+{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/apgar/","hide":true}
 ---
 
 - 1. és 5. percben, ha kell 5 percenként ism.

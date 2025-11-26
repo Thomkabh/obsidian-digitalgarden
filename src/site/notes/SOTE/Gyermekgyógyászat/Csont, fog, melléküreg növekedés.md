@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/csont-fog-mellekuereg-noevekedes/"}
+{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/csont-fog-mellekuereg-noevekedes/","hide":true}
 ---
 
 #### Csonttömeg

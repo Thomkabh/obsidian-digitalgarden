@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/csecsemohalalozas/"}
+{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/csecsemohalalozas/","hide":true}
 ---
 
 <mark style="background: #D2B3FFA6;">Élve születést követő egyéves kor betöltése előtt bekövetkezett halálozás 1000 élveszületettre vonatkoztatott arányszáma</mark>

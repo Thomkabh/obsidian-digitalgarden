@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/koraszueloettek-taplalasa/"}
+{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/koraszueloettek-taplalasa/","hide":true}
 ---
 
 - A koraszülöttek gyarapodása sokkal nagyobb ütemű

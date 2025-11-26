@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/gesztacios-fogalmak/"}
+{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/gesztacios-fogalmak/","hide":true}
 ---
 
 - Az érettséget a fogamzástól a magzat világrajöveteléig eltelt ún. gesztációs idővel, hetekben fejezzük ki

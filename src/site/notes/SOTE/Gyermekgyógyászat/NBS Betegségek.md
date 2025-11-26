@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/nbs-betegsegek/"}
+{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/nbs-betegsegek/","hide":true}
 ---
 
 - *Aminosav és acilkarnitin profil alapján*

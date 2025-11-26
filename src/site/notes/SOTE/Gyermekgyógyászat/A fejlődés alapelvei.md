@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/a-fejlodes-alapelvei/"}
+{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/a-fejlodes-alapelvei/","hide":true}
 ---
 
 #### Idegrendszer
