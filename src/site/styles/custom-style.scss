@@ -1,4 +1,17 @@
-body {
+body {/* Jobb oldali sáv (TOC) magasságának növelése */
+aside,
+.toc,
+.toc-container,
+.table-of-contents {
+    max-height: 90vh !important;
+    overflow-y: auto; /* Ha mégis túl hosszú, lehessen görgetni */
+}
+
+/* Ez biztosítja, hogy a "ragadós" (sticky) pozíció is jót tegyen */
+.sidebar, .right-sidebar {
+    height: auto !important;
+    max-height: 90vh !important;
+}
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
