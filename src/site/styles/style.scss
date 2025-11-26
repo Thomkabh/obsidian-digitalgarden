@@ -217,17 +217,3 @@ p > code {
 .callout.is-collapsed .callout-fold .svg-icon {
     transform: rotate(-90deg);
 }
-/* Jobb oldali sáv (TOC) magasságának növelése */
-aside,
-.toc,
-.toc-container,
-.table-of-contents {
-    max-height: 90vh !important;
-    overflow-y: auto; /* Ha mégis túl hosszú, lehessen görgetni */
-}
-
-/* Ez biztosítja, hogy a "ragadós" (sticky) pozíció is jót tegyen */
-.sidebar, .right-sidebar {
-    height: auto !important;
-    max-height: 90vh !important;
-}
