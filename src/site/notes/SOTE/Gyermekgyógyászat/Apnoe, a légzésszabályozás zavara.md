@@ -4,20 +4,32 @@
 
 ## Apnoe, a légzésszabályozás zavara
 ### Meghatározás
-<mark style="background: #FFF3A3A6;">=min. 20 mp légzéskimaradás</mark>
-
-
+- Apnoe=<mark style="background: #FFF3A3A6;">min. 20 mp légzéskimaradás</mark>
+	- Gyakori éretlen légzésszabályozás miatt -> arányosan nő (50-90%)
+	- Gyakori mellé bradycardia, cyanosis
+- Periodikus légzés=<mark style="background: #FFF3A3A6;">normál ritmusú légzés alatti 5-10 mp kimaradás</mark>
+	- Nincs bradycardia, cyanosis
+	- Hypoventilatiot eredményez
+	- Gyakori
 
 ### Patomechanizmus
-
+- Éretlen/ méhen belüli légzésszabályozás
+	- Hypoxia hatására inaktivitás, apnoe alakul ki
+	- Légzésszámfokozódás csak később jelenik meg mint reflexes válasz
+- Sztresszhatás is elősegíti
 
 ### Klinikai tünetek és lefolyás
-
-
-### Kórisme
-
-
-### Szövődmények 
-
+- Inaktívitás, mellkasmozgás megszűnés
+- Magától is szűnhet, de cyanosis, bardycardia veszélyes lehet
+- 36-40. hétre általában szűnik
 
 ### Kezelés
+- Folyamatos szív- és légzésmonitor
+- Ha apnoes epizódban -> bőr dörzsölés
+- Gyakoriság csökk
+	- Fájdalmas beavatkozások kerülése
+	- Fájdalomcsill
+	- Komfort
+- NIV (nCPAP, HFNC)
+- Koffein
+- Invazív lélegeztetés
