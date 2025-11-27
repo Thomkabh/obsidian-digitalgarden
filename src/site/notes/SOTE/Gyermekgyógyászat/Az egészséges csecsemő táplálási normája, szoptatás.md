@@ -3,9 +3,9 @@
 ---
 
 - <mark style="background: #FFF3A3A6;">Az egészséges újszülött optimális táplálása az első hat hónapban az igény szerinti, válaszkész, kizárólagos szoptatás</mark>.
-	- Igény szerint
-	- Bármikor
-	- Bármeddig
+	- *Igény szerint*
+	- *Bármikor*
+	- *Bármeddig*
 - 6 hónap után hozzátáplálás mellett akár 1-2 éves korig
 
 #### A szoptatás és az anyatej jótékony hatásai
@@ -58,3 +58,8 @@
 - Kontraindikált szoptatás
 	- Anya -> HIV+, TBC, gyógyszerek
 	- Újszülött -
+
+##### Anyatej hiány esetében
+- Donor női tej -> ellenőrzött, pasztörizált
+- Tápszer
+- Spec. tápszer -> galactoaemia, PKU, ...

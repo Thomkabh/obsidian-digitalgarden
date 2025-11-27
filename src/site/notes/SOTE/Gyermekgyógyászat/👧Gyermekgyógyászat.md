@@ -16,6 +16,12 @@
 
 ### [[SOTE/Gyermekgyógyászat/5. Újszülöttkori és genetikai szűrővizsgálatok, prevenció\|5. Újszülöttkori és genetikai szűrővizsgálatok, prevenció]]
 
+### [[SOTE/Gyermekgyógyászat/6. Újszülöttkori légzési adaptációs zavarok és tüdőbetegségek\|6. Újszülöttkori légzési adaptációs zavarok és tüdőbetegségek]]
+
+
+
+
+
 
 
 

@@ -48,4 +48,14 @@
 	- Saját anyatej
 	- Fokozatos növelés
 - TPN fokozatos csökk.
-- Cél -> 2 hetes korra teljes TPN
+- **Cél -> 2 hetes korra teljes TPN**
+
+#### A koraszülöttek mellre tétele, szoptatása
+- Gyakori bőr-bőrkontaktus, kenguru
+- Mellretétel, non-nutritív szoptatás gyakorlása
+	- Kompetencia nő, kontaktus erősödik
+	- Tej mennyiség nő
+	- Reflex fejlődés
+	- GI flóra kialakulás
+- 36. posztmenstruációs hétre kizárólagos szoptatás kéne
+- HA nem lehet -> fecskendő, ujjetető, stb.
