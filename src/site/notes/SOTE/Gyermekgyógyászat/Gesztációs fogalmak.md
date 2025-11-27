@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/gesztacios-fogalmak/","hide":true}
 ---
 
+## Gesztációs fogalmak
+
 - Az érettséget a fogamzástól a magzat világrajöveteléig eltelt ún. gesztációs idővel, hetekben fejezzük ki
 - <mark style="background: #D2B3FFA6;">Gesztációs idő ->  utolsó menstruáció első napjától számítjuk és a betöltött hetek számával adjuk meg</mark>
 - 12. heti UH -> megerősíti

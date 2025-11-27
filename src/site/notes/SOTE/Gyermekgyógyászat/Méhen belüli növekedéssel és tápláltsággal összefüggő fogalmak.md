@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/mehen-belueli-noevekedessel-es-taplaltsaggal-oesszefueggo-fogalmak/","hide":true}
 ---
 
+## Méhen belüli növekedéssel és tápláltsággal összefüggő fogalmak
+
 <mark style="background: #FFF3A3A6;">A magzat méhen belüli növekedését, illetve a születési súlyát az anya táplálkozása, bio- pszicho-szociális jóléte, a méhlepény működése, a magzat genetikailag determinált növekedési programja és természetesen a gesztáció hossza együttesen határozzák meg.</mark>
 
 - Anyai kielégítő fejlődés 

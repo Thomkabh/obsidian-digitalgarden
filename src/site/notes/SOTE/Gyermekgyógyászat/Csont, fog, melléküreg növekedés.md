@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/csont-fog-mellekuereg-noevekedes/","hide":true}
 ---
 
+## Csont, fog, melléküreg növekedés
 #### Csonttömeg
 - *Csontkor* -> növekedési potenicál becslés
 	- Bal kéz és csukló RTG + Greulich-Pyle-csontatlasz

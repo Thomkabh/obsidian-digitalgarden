@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/nbs-betegsegek/","hide":true}
 ---
 
+## NBS Betegségek
+
 - *Aminosav és acilkarnitin profil alapján*
 	- Phenylketonuria -> fenilalanin nő
 	- Ureaciklus zavarok -pl. Citrullinaemia (ASS hiány) ->citrullin nő

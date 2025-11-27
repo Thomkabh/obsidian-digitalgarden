@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/a-fejlodes-alapelvei/","hide":true}
 ---
 
+## A fejlődés alapelvei
 #### Idegrendszer
 - 4. héten kezd fejlődni
 - Születéskor a neuron szám már végleges

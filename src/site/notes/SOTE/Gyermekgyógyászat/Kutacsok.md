@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/kutacsok/","hide":true}
 ---
 
+## Kutacsok
 
 - <mark style="background: #D2B3FFA6;">Koponyatető varratainak alálkozásánál lévő kötőszövetes területek</mark>
 - *Nagykutacs* -> <mark style="background: #FFF3A3A6;">3-6 cm</mark>

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/az-egeszseges-csecsemo-taplalasi-normaja-szoptatas/","hide":true}
 ---
 
+## Az egészséges csecsemő táplálási normája, szoptatás
+
 - <mark style="background: #FFF3A3A6;">Az egészséges újszülött optimális táplálása az első hat hónapban az igény szerinti, válaszkész, kizárólagos szoptatás</mark>.
 	- *Igény szerint*
 	- *Bármikor*
