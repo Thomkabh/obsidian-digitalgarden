@@ -12,15 +12,19 @@ aside,
     height: auto !important;
     max-height: 90vh !important;
 }
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+   /* Bal oldali sáv (Fájlkezelő) szélesítése */
+.sidebar, 
+.file-tree-sidebar, 
+nav.file-tree {
+    width: 350px !important;    /* Növeld ezt az értéket, ha még szélesebb kell (pl. 400px) */
+    min-width: 350px !important; 
+    max-width: 50vw !important; /* Biztonsági korlát, hogy mobilon ne csússzon szét */
+}
+
+/* Ha a szöveg még mindig sortörne, de te azt akarod, hogy egy sorban maradjon */
+.sidebar a, .file-tree a {
+    white-space: normal !important; /* Engedi a sortörést, hogy látszódjon a teljes cím */
+    /* VAGY ha azt akarod, hogy levágja a végét: */
+    /* white-space: nowrap !important; */
+}
 }
