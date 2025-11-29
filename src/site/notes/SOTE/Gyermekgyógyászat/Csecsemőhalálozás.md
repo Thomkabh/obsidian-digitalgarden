@@ -26,6 +26,7 @@
 
 - 80% koraszülöttség miatti
 - 20% fejlődési rendellenesség és érett újszülött asphyxia
+- Szepszis?
 #### Késői csecsemőhalálozás{ #d9b047}
 
 - Fejlődési rendellenességek, az idegrendszer betegségei, a SIDS és a külső okok
