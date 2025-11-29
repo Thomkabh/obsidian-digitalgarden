@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/gyermekgyogyaszat/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/gyermekgyogyaszat/","pinned":true,"tags":["gardenEntry"]}
 ---
 
 ## [[Jegyzet-gyerekgyógy.pdf|Jegyzet]]
