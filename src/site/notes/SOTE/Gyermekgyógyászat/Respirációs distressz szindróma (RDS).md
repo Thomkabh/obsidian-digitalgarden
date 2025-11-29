@@ -49,7 +49,7 @@
 		- Intratrachealisan
 - Súlyos esetben inv. vent./HFNO
 #### Megelőzés
-- -<mark style="background: #FFF3A3A6;"> Koraszülés lehetőségekor 23-25.héten anyai szteroid</mark>
+- **Antenatális** **szteroid**=<mark style="background: #FFF3A3A6;"> Koraszülés lehetőségekor 23-25.héten anyai szteroid</mark>
 	- Dexa- vagy Betamethasone
 	- 48 óra kell, hogy hasson
 	- Nincs kontraindikáció

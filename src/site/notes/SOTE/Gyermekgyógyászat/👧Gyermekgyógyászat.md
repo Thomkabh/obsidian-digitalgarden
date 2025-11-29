@@ -22,6 +22,9 @@
 
 ### [[SOTE/Gyermekgyógyászat/8. Újszülöttkori sárgaság\|8. Újszülöttkori sárgaság]]
 
+### [[SOTE/Gyermekgyógyászat/9. Koraszülöttek szövődményei (BPD, ROP, NEC, IVH)\|9. Koraszülöttek szövődményei (BPD, ROP, NEC, IVH)]]
+
+
 
 
 
