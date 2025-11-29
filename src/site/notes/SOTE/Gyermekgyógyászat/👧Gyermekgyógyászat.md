@@ -18,6 +18,8 @@
 
 ### [[SOTE/Gyermekgyógyászat/6. Újszülöttkori légzési adaptációs zavarok és tüdőbetegségek\|6. Újszülöttkori légzési adaptációs zavarok és tüdőbetegségek]]
 
+## [[SOTE/Gyermekgyógyászat/7. Újszülöttek fertőzései\|7. Újszülöttek fertőzései]]
+
 
 
 
