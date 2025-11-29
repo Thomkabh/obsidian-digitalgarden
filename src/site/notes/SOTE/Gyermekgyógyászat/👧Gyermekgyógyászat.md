@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/gyermekgyogyaszat/","pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/gyermekgyogyaszat/","tags":["gardenEntry"]}
 ---
 
 ## [[Jegyzet-gyerekgyógy.pdf|Jegyzet]]
@@ -20,7 +20,7 @@
 
 ### [[SOTE/Gyermekgyógyászat/7. Újszülöttek fertőzései\|7. Újszülöttek fertőzései]]
 
-### [[8. Újszülöttkori sárgaság\|8. Újszülöttkori sárgaság]]
+### [[SOTE/Gyermekgyógyászat/8. Újszülöttkori sárgaság\|8. Újszülöttkori sárgaság]]
 
 
 
