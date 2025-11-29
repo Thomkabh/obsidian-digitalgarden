@@ -40,13 +40,6 @@
 - Keringési elégtelenség
 
 ### Kezelés
-#### Megelőzés
-- -<mark style="background: #FFF3A3A6;"> Koraszülés lehetőségekor 23-25.héten anyai szteroid</mark>
-	- Dexa- vagy Betamethasone
-	- 48 óra kell, hogy hasson
-	- Nincs kontraindikáció
-
-
 - 6-10 vízcm PEEP-es NIV
 - Koffein
 - Ha dyspnoe súlyos vagy NIV mellett oxigén igény nő
@@ -55,3 +48,8 @@
 		- 200 mg/ttkg
 		- Intratrachealisan
 - Súlyos esetben inv. vent./HFNO
+#### Megelőzés
+- -<mark style="background: #FFF3A3A6;"> Koraszülés lehetőségekor 23-25.héten anyai szteroid</mark>
+	- Dexa- vagy Betamethasone
+	- 48 óra kell, hogy hasson
+	- Nincs kontraindikáció
