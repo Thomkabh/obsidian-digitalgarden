@@ -41,6 +41,6 @@
 	- Pl. GM–IVH, NEC, BPD, és ROP
 	- szomatikus fejlődés, idegrendszeri és érzékszervi károsodások, tanulási nehézségek és a felnőttkori kardiovasculáris és metabolikus betegségek
 
-#### Életképesség határa
+##### Életképesség határa
 - <mark style="background: #FFF3A3A6;">24.hét // 500 gr vagy 30 cm testhossz</mark>
 - Akár 22.hét 

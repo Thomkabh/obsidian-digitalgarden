@@ -9,7 +9,6 @@
 - Anyai kielégítő fejlődés 
 	- 2500 kcal/nap 
 	- 60g fehérje/nap
-
 #### Kis születési súly
 - Kis születési súly -> <2500gr
 - Igen kis súlyú -> <1500 gr
@@ -32,6 +31,8 @@
 - Oka
 	- Genetika
 	- Infekció, teratogének
+
+
 #### IUGR (Intrauterin growth restriction)
 - <mark style="background: #FFF3A3A6;">Patológiás</mark>
 - Pl. 60-as percentilis volt, de később csak 15-ös percentilis
