@@ -7,11 +7,11 @@
 #### Primer
 - Congen. lobaris emphysema
 - Congen pulmonal airway malformation (CPAM)
-- **Sebészi megoldás kell**
+- <mark style="background: #FFF3A3A6;">Sebészi megoldás kell</mark>
 
 #### Szekunder
-- Tüdő hypoplasia 
-- Oligohydramnion -> "Potter szekvencia"
+- <mark style="background: #FFF3A3A6;">Tüdő hypoplasia okán</mark>
+- Oligohydramnion -> **"Potter szekvencia"**
 	- Pl. vesegond miatt 
 		- Pl. PKD, obstruktív uropathia, vese hypoplasia, agenesis
-- Hernia diaphragmatica
+- **Hernia diaphragmatica**

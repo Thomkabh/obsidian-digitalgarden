@@ -4,7 +4,7 @@
 
 ## Méhen belüli növekedéssel és tápláltsággal összefüggő fogalmak
 
-<mark style="background: #FFF3A3A6;">A magzat méhen belüli növekedését, illetve a születési súlyát az anya táplálkozása, bio- pszicho-szociális jóléte, a méhlepény működése, a magzat genetikailag determinált növekedési programja és természetesen a gesztáció hossza együttesen határozzák meg.</mark>
+<mark style="background: #D2B3FFA6;">A magzat méhen belüli növekedését, illetve a születési súlyát az anya táplálkozása, bio- pszicho-szociális jóléte, a méhlepény működése, a magzat genetikailag determinált növekedési programja és természetesen a gesztáció hossza együttesen határozzák meg.</mark>
 
 - Anyai kielégítő fejlődés 
 	- 2500 kcal/nap 
@@ -16,7 +16,7 @@
 
 #### SGA (Small for gestional age)
 - <mark style="background: #D2B3FFA6;">Az SGA újszülött születési súlya a gesztációs kornak és nemnek megfelelő standard 10-es percentilis értéknél kisebb.</mark>
-- <mark style="background: #FFF3A3A6;">Lehet fiziológiás/konstitucionális</mark>
+- Lehet fiziológiás (konstitucionális)
 ##### Asszimetrikus SGA/ Dysproprocionált SGA
 - <mark style="background: #FFF3A3A6;">Súly kisebb, testhossz és fejkörfogat jó</mark>
 - Relatív vagy abszolút éhezés miatt
@@ -32,7 +32,6 @@
 	- Genetika
 	- Infekció, teratogének
 
-
 #### IUGR (Intrauterin growth restriction)
 - <mark style="background: #FFF3A3A6;">Patológiás</mark>
 - Pl. 60-as percentilis volt, de később csak 15-ös percentilis
@@ -40,7 +39,7 @@
 - Rizikó nő -> intrauterin elhalás, perinatális asphyxia, hypoglycaemia, hypothermia, polycythaemia
 
 #### LGA (Large for gestionation age)/ Macrosomia
-- <mark style="background: #FFF3A3A6;">Az újszülött születési súlya a gesztációs kornak és nemnek megfelelő standard 90-es percentilis érték felett van</mark>
+- <mark style="background: #D2B3FFA6;">Az újszülött születési súlya a gesztációs kornak és nemnek megfelelő standard 90-es percentilis érték felett van</mark>
 - Érettek, de 4000 gr+ mortalitás, morbiditás risk nő
 - Oka
 	- Fiziológiás -> nagyméretű szülő, sokadik terhesség

@@ -13,7 +13,7 @@
 - Első légvételkor alveoláris térből interstitiumba
 - 2-4 óra alatt véráramba
 - Adrenerg szabályozással
-- Okai
+- *Okai*
 	- Császár
 	- Éretlenség
 	- DM

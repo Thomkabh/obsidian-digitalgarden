@@ -16,12 +16,12 @@
 -  Közel érett -> 37-38. hét 
 	- pl. asthma, tanulási nehézség gyakoribb
 - **Átlagos értékek**
-	- 3300 gr
-	- 50 cm testhossz
-	- 35 cm fejkörfogat
+	- <mark style="background: #FFF3A3A6;">3300 gr</mark>
+	- <mark style="background: #FFF3A3A6;">50 cm testhossz</mark>
+	- <mark style="background: #FFF3A3A6;">35 cm fejkörfogat</mark>
 
 #### Túlhordott újszülöttek
-- <mark style="background: #FFF3A3A6;">42. hét után</mark>
+- **42. hét után**
 - Újszülött halálozási kockázat -> 3x
 - Szövödmények
 	- szülőszobai élesztés igénye, a meconium aspirációs szindróma, a pulmonális hypertónia hypoglycaemia, a hypocalcaemia és a polycythaemia
@@ -30,9 +30,9 @@
 -  Súly alacsony lehet, hossz, fejkörfogat jó
 
 #### Koraszülöttek
-- <mark style="background: #FFF3A3A6;">37. hét elött</mark>
+- **37. hét elött**
 - Kisebb méretek lehetnek, de nem mindig
-- Csoportjai
+- *Csoportjai*
 	- Extrém éretlen -> 22-27. hét
 	- Igen éretlen -> 28-31. hét
 	- Közepesen éretlen -> 32-34. hét

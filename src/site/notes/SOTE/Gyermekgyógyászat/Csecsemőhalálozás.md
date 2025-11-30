@@ -10,25 +10,21 @@
 { #aaf365}
 
 	- <mark style="background: #FFF3A3A6;">0-27. nap</mark>
-	- [[SOTE/Gyermekgyógyászat/Csecsemőhalálozás#^86676d\|Halálozási ok]]
 		- **Korai újszülötthalálozás**
 			- 0-6. nap
 		- **Késői újszülötthalálozás**
 			- 7-27. nap
 - ***Késői csecsemőhalálozás***
 	- <mark style="background: #FFF3A3A6;">28-365. nap</mark>
-	- [[SOTE/Gyermekgyógyászat/Csecsemőhalálozás#^d9b047\|Halálozási ok]]
 
  - Halálozási rizikó első héten max -> csökken
 ---
 ### A csecsemő- és gyermekkori halálozás okai
-#### Újszülött halálozás{ #86676d}
-
-- 80% koraszülöttség miatti
+#### Újszülött halálozás
+- **80% koraszülöttség miatti**
 - 20% fejlődési rendellenesség és érett újszülött asphyxia
 - Szepszis?
-#### Késői csecsemőhalálozás{ #d9b047}
-
+#### Késői csecsemőhalálozás
 - Fejlődési rendellenességek, az idegrendszer betegségei, a SIDS és a külső okok
 #### Későbbi halálozás
 - Nagyon csökken

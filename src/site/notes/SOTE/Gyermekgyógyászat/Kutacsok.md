@@ -5,10 +5,10 @@
 ## Kutacsok
 
 - <mark style="background: #D2B3FFA6;">Koponyatető varratainak alálkozásánál lévő kötőszövetes területek</mark>
-- *Nagykutacs* -> <mark style="background: #FFF3A3A6;">3-6 cm</mark>
-	- 14 hónapos korig zár
-- *Kiskutacs* -> <mark style="background: #FFF3A3A6;">1-1,15 cm</mark>
-	- 2 hónapos korig zár
+- **Nagykutacs** -> <mark style="background: #FFF3A3A6;">3-6 cm</mark>
+	- *14 hónapos korig zár*
+- **Kiskutacs** -> <mark style="background: #FFF3A3A6;">1-1,15 cm</mark>
+	- *2 hónapos korig zár*
 - Egészséges: lágy, sima, nivóban
 	- Besüppedt: dehydratatio
 	- Pulzál, kidomborodik: ICP nő

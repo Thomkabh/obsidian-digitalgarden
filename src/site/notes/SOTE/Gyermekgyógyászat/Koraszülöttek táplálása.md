@@ -17,7 +17,7 @@
 - Hányás
 
 #### A koraszülöttek táplálásának módjai
-- Igény
+- *Igény*
 	- Folyadék: 150-180 ml/kg/nap
 	- Energia: 115-140 kcal/kg/nap
 	- Fehérje: 3,5-4,5 g/kg/nap

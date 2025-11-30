@@ -6,11 +6,11 @@
 - Mindig indirekt
 
 ### Fiziológiás Icterus
-- <mark style="background: #D2B3FFA6;">Első életnap után, de 7. napar múlik</mark>
-- Sosem éri el a kezelendő szintet
+- <mark style="background: #D2B3FFA6;">Első életnap után, de 7. napra múlik</mark>
+- *Sosem éri el a kezelendő szintet*
 - Aluszékonyság
 - Nehéz etetés
-- Oka
+- *Oka*
 	- Magzati vvt bomlik, de más glükoronidáló képessége nem elég
 	- UGT1A1 éretlen
 	- Bilirubin entero-hepatikus körfogás fokzott

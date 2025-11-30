@@ -30,6 +30,6 @@
 	- PTX
 
 ### Kezelés
-- Meconium eltávolítás
+- **Meconium eltávolítás**
 	- Surfactantos tüdőlavage
 - NIV, HFO
