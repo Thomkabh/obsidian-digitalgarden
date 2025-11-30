@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/tuedo-fejlodesi-rendellenessegek/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/tuedo-fejlodesi-rendellenessegek/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Tüdő Fejlődési rendellenességek

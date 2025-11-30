@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/gesztacios-fogalmak/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/gesztacios-fogalmak/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Gesztációs fogalmak

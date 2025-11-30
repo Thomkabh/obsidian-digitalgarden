@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/germinalis-matrix-es-intraventricularis-haemorrhagia-gm-ivh/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/germinalis-matrix-es-intraventricularis-haemorrhagia-gm-ivh/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Germinalis matrix és intraventricularis haemorrhagia (GM-IVH)

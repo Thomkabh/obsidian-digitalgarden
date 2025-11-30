@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/ujszueloettek-extracranialis-verzese/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/ujszueloettek-extracranialis-verzese/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ### Caput Succadaneum

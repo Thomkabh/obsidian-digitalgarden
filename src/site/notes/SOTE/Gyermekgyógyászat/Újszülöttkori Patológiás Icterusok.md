@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/ujszueloettkori-patologias-icterusok/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/ujszueloettkori-patologias-icterusok/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Újszülöttkori Patológiás Icterusok

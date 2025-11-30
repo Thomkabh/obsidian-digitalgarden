@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/necrotizalo-enterocolitis-nec/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/necrotizalo-enterocolitis-nec/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Necrotizáló enterocolitis (NEC)

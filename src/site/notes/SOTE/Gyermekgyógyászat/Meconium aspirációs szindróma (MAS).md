@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/meconium-aspiracios-szindroma-mas/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/meconium-aspiracios-szindroma-mas/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Meconium aspirációs szindróma (MAS)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/csont-fog-mellekuereg-noevekedes/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/csont-fog-mellekuereg-noevekedes/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Csont, fog, melléküreg növekedés

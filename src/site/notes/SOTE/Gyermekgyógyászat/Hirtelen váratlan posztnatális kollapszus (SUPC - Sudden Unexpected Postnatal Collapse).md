@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/hirtelen-varatlan-posztnatalis-kollapszus-supc-sudden-unexpected-postnatal-collapse/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/hirtelen-varatlan-posztnatalis-kollapszus-supc-sudden-unexpected-postnatal-collapse/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Hirtelen váratlan posztnatális kollapszus (SUPC - Sudden Unexpected Postnatal Collapse)

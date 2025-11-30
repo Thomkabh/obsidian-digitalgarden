@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/az-egeszseges-csecsemo-taplalasi-normaja-szoptatas/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/az-egeszseges-csecsemo-taplalasi-normaja-szoptatas/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ### Az egészséges csecsemő táplálási normája, szoptatás

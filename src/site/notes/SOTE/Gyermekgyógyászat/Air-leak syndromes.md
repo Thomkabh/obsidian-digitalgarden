@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/air-leak-syndromes/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/air-leak-syndromes/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Air-leak syndromes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/koraszueloettek-taplalasa/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/koraszueloettek-taplalasa/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Koraszülöttek táplálása

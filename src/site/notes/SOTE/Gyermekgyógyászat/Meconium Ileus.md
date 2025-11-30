@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/meconium-ileus/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/meconium-ileus/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Meconium Ileus

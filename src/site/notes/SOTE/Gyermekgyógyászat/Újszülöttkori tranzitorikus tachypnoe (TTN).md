@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/ujszueloettkori-tranzitorikus-tachypnoe-ttn/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/ujszueloettkori-tranzitorikus-tachypnoe-ttn/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Újszülöttkori tranzitorikus tachypnoe (TTN)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/periventricularis-leukomalatia-pl/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/periventricularis-leukomalatia-pl/","hide":true,"dgPassFrontmatter":true}
 ---
 
 <mark style="background: #D2B3FFA6;">Éretlen agy jellegzetes fehérállomány-károsodása, amely nekrózissal és (gyakran) cisztaképződéssel jár az oldalkamrák melletti területeken</mark>

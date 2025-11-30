@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/bronchopulmonalis-dysplasia-bpd/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/bronchopulmonalis-dysplasia-bpd/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Bronchopulmonalis dysplasia (BPD)

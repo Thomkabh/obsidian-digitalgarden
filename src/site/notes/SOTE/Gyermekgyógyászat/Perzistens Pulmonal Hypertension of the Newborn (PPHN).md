@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/perzistens-pulmonal-hypertension-of-the-newborn-pphn/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/perzistens-pulmonal-hypertension-of-the-newborn-pphn/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Perzistens Pulmonal Hypertension of the Newborn (PPHN)

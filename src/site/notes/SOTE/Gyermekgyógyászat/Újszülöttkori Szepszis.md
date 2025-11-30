@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/ujszueloettkori-szepszis/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/ujszueloettkori-szepszis/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Újszülöttkori szepszis

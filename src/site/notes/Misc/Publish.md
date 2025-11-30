@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/misc/publish/"}
+{"dg-publish":true,"dg-hide":null,"permalink":"/misc/publish/","dgPassFrontmatter":true}
 ---
 

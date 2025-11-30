@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/respiracios-distressz-szindroma-rds/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/respiracios-distressz-szindroma-rds/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Respirációs distressz szindróma (RDS)

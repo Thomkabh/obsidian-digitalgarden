@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/retinopathia-praematurorum-rop/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/retinopathia-praematurorum-rop/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Retinopathia praematurorum (ROP)

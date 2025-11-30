@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/a-fejlodes-alapelvei/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/a-fejlodes-alapelvei/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## A fejlődés alapelvei

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/gyermekgyogyaszat/","pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"dg-pinned":true,"permalink":"/sote/gyermekgyogyaszat/gyermekgyogyaszat/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## <u>Tételek</u>

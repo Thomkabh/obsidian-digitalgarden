@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/volvulus/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/volvulus/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Volvulus

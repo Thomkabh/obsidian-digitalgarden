@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/kizart-serv/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/kizart-serv/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Kizárt sérv

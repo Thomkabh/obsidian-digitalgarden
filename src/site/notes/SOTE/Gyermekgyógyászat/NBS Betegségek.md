@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/nbs-betegsegek/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/nbs-betegsegek/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## NBS Betegségek

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/mehen-belueli-noevekedessel-es-taplaltsaggal-oesszefueggo-fogalmak/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/mehen-belueli-noevekedessel-es-taplaltsaggal-oesszefueggo-fogalmak/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Méhen belüli növekedéssel és tápláltsággal összefüggő fogalmak

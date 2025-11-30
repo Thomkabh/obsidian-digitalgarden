@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/apnoe-a-legzesszabalyozas-zavara/","hide":true}
+{"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/apnoe-a-legzesszabalyozas-zavara/","hide":true,"dgPassFrontmatter":true}
 ---
 
 ## Apnoe, a légzésszabályozás zavara
