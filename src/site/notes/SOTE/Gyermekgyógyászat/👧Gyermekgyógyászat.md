@@ -30,7 +30,7 @@
 
 ### [[SOTE/Gyermekgyógyászat/13. Ileus, invaginatio, volvulus, kizárt sérv, appendicitis\|13. Ileus, invaginatio, volvulus, kizárt sérv, appendicitis]]
 
-### [[14. Obstipatio. Hirschsprung betegség\|14. Obstipatio. Hirschsprung betegség]]
+### [[SOTE/Gyermekgyógyászat/14. Obstipatio. Hirschsprung betegség\|14. Obstipatio. Hirschsprung betegség]]
 
 
 

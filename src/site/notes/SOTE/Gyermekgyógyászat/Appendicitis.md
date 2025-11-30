@@ -8,7 +8,7 @@
 	- Lymphoid hyperplasia
 	- Székletrög
 	- Parazita
-- Nyák termelés :LiArrowUp:, bakt :LiArrowUp: -> nyomás :LiArrowUp:, gyulladás, necrosis
+- Nyák termelés , bakt  -> nyomás , gyulladás, necrosis
 	- => Gangréna, perforatio, peritonitis, tályog
 - *Nem komplikált*
 	- Simplex; phlegmonosus stádium
@@ -25,7 +25,7 @@
 - McBurney-pont fáj
 - Psoas-jel +
 - *UH* -> nem komprimálható, érdús, >7 mm átmérőjű tubuláris képlet; szabad hasi folyadék
-- CRP, fvs :LiArrowUp:
+- CRP, fvs 
 - <mark style="background: #FFF3A3A6;">DD</mark>
 	- Gastroenteritis
 	- Invaginatio
