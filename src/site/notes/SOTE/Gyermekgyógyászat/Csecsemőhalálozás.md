@@ -7,8 +7,6 @@
 <mark style="background: #D2B3FFA6;">Élve születést követő egyéves kor betöltése előtt bekövetkezett halálozás 1000 élveszületettre vonatkoztatott arányszáma</mark>
 
 - ***Újszülött halálozás***/korai csecsemőhalálozás
-{ #aaf365}
-
 	- <mark style="background: #FFF3A3A6;">0-27. nap</mark>
 		- **Korai újszülötthalálozás**
 			- 0-6. nap
