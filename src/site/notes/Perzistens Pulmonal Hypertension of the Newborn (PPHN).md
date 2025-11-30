@@ -21,7 +21,7 @@
 - Cyanosis -> <mark style="background: #FFF3A3A6;">nem reagál oxigénre</mark>
 		- Postductalis SpO2 < Preductalis SpO2
 ### Kezelés
-	- Légzéstámogatos
-	- iNO
-	- + inotrópok
-	- ECMO
+- Légzéstámogatos
+- iNO
+- + inotrópok
+- ECMO
