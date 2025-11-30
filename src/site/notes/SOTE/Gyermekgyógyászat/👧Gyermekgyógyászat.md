@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/sote/gyermekgyogyaszat/gyermekgyogyaszat/","pinned":true,"tags":["gardenEntry"]}
 ---
 
-## [[Jegyzet-gyerekgyógy.pdf|Jegyzet]]
-
 ## <u>Tételek</u>
 
 ### [[SOTE/Gyermekgyógyászat/1.Perinatológiai meghatározások, halálozási adatok, gestatio tartamával, születéssel összefüggő fogalmak\|1.Perinatológiai meghatározások, halálozási adatok, gestatio tartamával, születéssel összefüggő fogalmak]]
