@@ -50,7 +50,7 @@
 	- Saját anyatej
 	- Fokozatos növelés
 - TPN fokozatos csökk.
-- **Cél -> 2 hetes korra teljes TPN**
+- **Cél -> 2 hetes korra teljes EN**
 
 #### A koraszülöttek mellre tétele, szoptatása
 - Gyakori bőr-bőrkontaktus, kenguru
