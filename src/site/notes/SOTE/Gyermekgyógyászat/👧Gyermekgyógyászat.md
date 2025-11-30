@@ -24,13 +24,13 @@
 
 ### [[SOTE/Gyermekgyógyászat/9. Koraszülöttek szövődményei (BPD, ROP, NEC, IVH)\|9. Koraszülöttek szövődményei (BPD, ROP, NEC, IVH)]]
 
-## [[SOTE/Gyermekgyógyászat/10. Hirtelen csecsemőhalál (SIDS), csecsemőhalandóság, demográfiai adatok\|10. Hirtelen csecsemőhalál (SIDS), csecsemőhalandóság, demográfiai adatok]]
+### [[SOTE/Gyermekgyógyászat/10. Hirtelen csecsemőhalál (SIDS), csecsemőhalandóság, demográfiai adatok\|10. Hirtelen csecsemőhalál (SIDS), csecsemőhalandóság, demográfiai adatok]]
 
-## [[SOTE/Gyermekgyógyászat/11. Csecsemő- és gyermekkori újraélesztés\|11. Csecsemő- és gyermekkori újraélesztés]]
+### [[SOTE/Gyermekgyógyászat/11. Csecsemő- és gyermekkori újraélesztés\|11. Csecsemő- és gyermekkori újraélesztés]]
 
-## [[SOTE/Gyermekgyógyászat/12. Meconium ileus, bél atresiák, pylorus stenosis, rekeszsérv\|12. Meconium ileus, bél atresiák, pylorus stenosis, rekeszsérv]]
+### [[SOTE/Gyermekgyógyászat/12. Meconium ileus, bél atresiák, pylorus stenosis, rekeszsérv\|12. Meconium ileus, bél atresiák, pylorus stenosis, rekeszsérv]]
 
-## [[SOTE/Gyermekgyógyászat/13. Ileus, invaginatio, volvulus, kizárt sérv, appendicitis\|13. Ileus, invaginatio, volvulus, kizárt sérv, appendicitis]]
+### [[SOTE/Gyermekgyógyászat/13. Ileus, invaginatio, volvulus, kizárt sérv, appendicitis\|13. Ileus, invaginatio, volvulus, kizárt sérv, appendicitis]]
 
 
 
