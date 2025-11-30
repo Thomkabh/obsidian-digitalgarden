@@ -9,18 +9,18 @@
 - Gyakran <mark style="background: #FFF3A3A6;">jobb-bal irányú sönt</mark> -> foramen ovale és/vagy a ductus arteriosus
 	- Oxigénhiányos vér kikerüli a tüdőt és bejut a szisztémás keringésbe
 - Általában érett vagy túlhordott újszülötteket érint
-- *Okai*
-	- Aszfixia vagy hipoxia
+### Okai
+- Aszfixia vagy hipoxia
 	- MAS
 	- RDS
 	- Korai DA vagy FO záródás (pl. NSAID)
 	- Tüdő hypoplasia
 	- Pneumonia, sepsis
-- *Tünetek*
-	- Dyspnoe
-	- Cyanosis -> <mark style="background: #FFF3A3A6;">nem reagál oxigénre</mark>
+### Tünetek
+- Dyspnoe
+- Cyanosis -> <mark style="background: #FFF3A3A6;">nem reagál oxigénre</mark>
 		- Postductalis SpO2 < Preductalis SpO2
-- *Kezelés*
+### Kezelés
 	- Légzéstámogatos
 	- iNO
 	- + inotrópok
