@@ -30,6 +30,8 @@
 
 ## [[SOTE/Gyermekgyógyászat/12. Meconium ileus, bél atresiák, pylorus stenosis, rekeszsérv\|12. Meconium ileus, bél atresiák, pylorus stenosis, rekeszsérv]]
 
+## [[SOTE/Gyermekgyógyászat/13. Ileus, invaginatio, volvulus, kizárt sérv, appendicitis\|13. Ileus, invaginatio, volvulus, kizárt sérv, appendicitis]]
+
 
 
 
