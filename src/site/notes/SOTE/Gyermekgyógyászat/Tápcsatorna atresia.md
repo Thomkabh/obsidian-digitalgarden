@@ -77,7 +77,7 @@
 - Intrauterin vascularis esemény is okozhatja
 - Ált. izoláltan 
 
-### Klinikai
+### Klinikai tünetek
 - Ileus
 - Hányás, disztendált has, nem táplálható
 - Meconium ürülés nem zárja ki
