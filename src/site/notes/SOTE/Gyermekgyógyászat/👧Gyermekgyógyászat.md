@@ -24,6 +24,10 @@
 
 ### [[SOTE/Gyermekgyógyászat/9. Koraszülöttek szövődményei (BPD, ROP, NEC, IVH)\|9. Koraszülöttek szövődményei (BPD, ROP, NEC, IVH)]]
 
+## [[SOTE/Gyermekgyógyászat/10. Hirtelen csecsemőhalál (SIDS), csecsemőhalandóság, demográfiai adatok\|10. Hirtelen csecsemőhalál (SIDS), csecsemőhalandóság, demográfiai adatok]]
+
+## [[11. Csecsemő- és gyermekkori újraélesztés\|11. Csecsemő- és gyermekkori újraélesztés]]
+
 
 
 
