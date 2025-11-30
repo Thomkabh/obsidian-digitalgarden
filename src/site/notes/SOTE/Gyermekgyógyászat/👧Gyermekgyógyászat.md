@@ -26,7 +26,7 @@
 
 ## [[SOTE/Gyermekgyógyászat/10. Hirtelen csecsemőhalál (SIDS), csecsemőhalandóság, demográfiai adatok\|10. Hirtelen csecsemőhalál (SIDS), csecsemőhalandóság, demográfiai adatok]]
 
-## [[11. Csecsemő- és gyermekkori újraélesztés\|11. Csecsemő- és gyermekkori újraélesztés]]
+## [[SOTE/Gyermekgyógyászat/11. Csecsemő- és gyermekkori újraélesztés\|11. Csecsemő- és gyermekkori újraélesztés]]
 
 
 
