@@ -28,6 +28,7 @@
 
 ## [[SOTE/Gyermekgyógyászat/11. Csecsemő- és gyermekkori újraélesztés\|11. Csecsemő- és gyermekkori újraélesztés]]
 
+## [[SOTE/Gyermekgyógyászat/12. Meconium ileus, bél atresiák, pylorus stenosis, rekeszsérv\|12. Meconium ileus, bél atresiák, pylorus stenosis, rekeszsérv]]
 
 
 
