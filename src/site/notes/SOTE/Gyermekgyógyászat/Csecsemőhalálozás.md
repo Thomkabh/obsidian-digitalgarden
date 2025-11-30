@@ -14,7 +14,6 @@
 			- 7-27. nap
 - ***Késői csecsemőhalálozás***
 	- <mark style="background: #FFF3A3A6;">28-365. nap</mark>
-
  - Halálozási rizikó első héten max -> csökken
 ---
 ### A csecsemő- és gyermekkori halálozás okai
