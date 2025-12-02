@@ -19,7 +19,7 @@
 ### Klinikai tünetek
 - Nyálfolyás
 - Táplálási nehézség
-- APGAR szondázáskor
+- APGAR szondázáskor megakad (nem rutin elllátás)
 - H-típusnál pneumonia, köhögés, aspiráció
 - Mortalitás <5%
 
@@ -136,7 +136,7 @@
 - <mark style="background: #FFF3A3A6;">Etetés után nem epés sugárhányás</mark>
 - Éhes, dehydrált, oligouria
 - Felhasban kis diószerű
-- Hypochloraemias-hypokalaemias met. acidosis hányás miatt
+- Hypochloraemias-hypokalaemias met. alkalosis hányás miatt
 
 ### Kivizsgálás
 - Fizikálisan diótünet

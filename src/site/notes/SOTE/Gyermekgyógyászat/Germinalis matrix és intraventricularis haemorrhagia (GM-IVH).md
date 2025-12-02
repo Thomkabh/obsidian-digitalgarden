@@ -12,7 +12,7 @@
 	- Akár intraventrikulárisan is bevérezhet (IVH)-> kamratágulás
 	- Periventrikuláris haemorrhagiás vérzés is lehet
 	- Vérzés után -> vér bealvad -> liquorkeringési zavar 
-		- =Posthaemorrhagiás hydrocephalus (PPH)
+		- =Posthaemorrhagiás hydrocephalus (PHH)
 - Jellemzően <mark style="background: #FFF3A3A6;">32. hét előtt</mark> jelentkezik
 - <mark style="background: #FFF3A3A6;">Ált. első 72 órában</mark>
 
@@ -20,7 +20,7 @@
 | ------------ | --------------------------------------------------------------------------------------------- |
 | II. stádium  | Oldalkamrába törő vérzés, akut kamratágulat nélkül. A vérzés a kamra volumen <50%-át tölti ki |
 | III. stádium | Oldalkamrába törő vérzés, akut kamratágulattal. A vérzés a kamra volumen > 50%-át tölti k     |
-| IV. stádium  | oldalkamravérzéshez társuló, azonos oldali periventricularis haemorrhágiás infarktus (PHH     |
+| IV. stádium  | oldalkamravérzéshez társuló, azonos oldali periventricularis haemorrhágiás infarktus (PVHI)   |
 
 ### Patomechanizmus
 - Fragilis erek
