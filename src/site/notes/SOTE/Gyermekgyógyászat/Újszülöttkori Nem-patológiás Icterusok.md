@@ -11,7 +11,7 @@
 - Aluszékonyság
 - Nehéz etetés
 - *Oka*
-	- Magzati vvt bomlik, de más glükoronidáló képessége nem elég
+	- Magzati vvt bomlik, de máj glükoronidáló képessége nem elég
 	- UGT1A1 éretlen
 	- Bilirubin entero-hepatikus körfogás fokzott
 
