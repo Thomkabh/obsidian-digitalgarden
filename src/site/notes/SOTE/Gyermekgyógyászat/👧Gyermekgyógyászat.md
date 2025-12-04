@@ -32,6 +32,7 @@
 
 ### [[SOTE/Gyermekgyógyászat/14. Obstipatio. Hirschsprung betegség\|14. Obstipatio. Hirschsprung betegség]]
 
+### [[SOTE/Gyermekgyógyászat/15. Here- és ovariumtorsio. Cryptorchismus\|15. Here- és ovariumtorsio. Cryptorchismus]]
 
 
 
