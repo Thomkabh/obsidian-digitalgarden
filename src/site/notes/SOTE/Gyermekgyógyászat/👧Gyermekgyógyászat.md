@@ -44,6 +44,8 @@
 
 ### [[SOTE/Gyermekgyógyászat/20. A szepszis jelei, az első órák teendői\|20. A szepszis jelei, az első órák teendői]]
 
+### [[SOTE/Gyermekgyógyászat/21. Herpes vírusok okozta megbetegedések\|21. Herpes vírusok okozta megbetegedések]]
+
 
 
 

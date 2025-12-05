@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/ujszueloettkori-szepszis/","hide":true,"dgPassFrontmatter":true}
 ---
 
+[[SOTE/Gyermekgyógyászat/20. A szepszis jelei, az első órák teendői\|20. A szepszis jelei, az első órák teendői]]
 ## Újszülöttkori szepszis
 ### Meghatározás
 <mark style="background: #D2B3FFA6;">28 napnál fiatalabb csecsemőkben fellépő klinikai szindróma, amit a fertőzés szisztémás tünetei és pozitív haemokultúra jellemez</mark>
