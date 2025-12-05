@@ -38,6 +38,9 @@
 
 ### [[SOTE/Gyermekgyógyászat/17. Anaemia tünetei, kivizsgálása\|17. Anaemia tünetei, kivizsgálása]]
 
+### [[SOTE/Gyermekgyógyászat/18. Leukémiák\|18. Leukémiák]]
+
+
 
 
 
