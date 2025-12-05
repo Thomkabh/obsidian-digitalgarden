@@ -34,6 +34,8 @@
 
 ### [[SOTE/Gyermekgyógyászat/15. Here- és ovariumtorsio. Cryptorchismus\|15. Here- és ovariumtorsio. Cryptorchismus]]
 
+### [[SOTE/Gyermekgyógyászat/16. Vérzékenységgel járó betegségek\|16. Vérzékenységgel járó betegségek]]
+
 
 
 
