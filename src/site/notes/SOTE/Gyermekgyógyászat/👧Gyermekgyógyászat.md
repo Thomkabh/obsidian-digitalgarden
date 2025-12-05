@@ -40,7 +40,7 @@
 
 ### [[SOTE/Gyermekgyógyászat/18. Leukémiák\|18. Leukémiák]]
 
-
+### [[SOTE/Gyermekgyógyászat/19. Fertőző betegségek megelőzése, védőoltások\|19. Fertőző betegségek megelőzése, védőoltások]]
 
 
 
