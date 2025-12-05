@@ -46,6 +46,7 @@
 
 ### [[SOTE/Gyermekgyógyászat/21. Herpes vírusok okozta megbetegedések\|21. Herpes vírusok okozta megbetegedések]]
 
+### [[SOTE/Gyermekgyógyászat/22.Morbilli, rubeola, skarlát\|22.Morbilli, rubeola, skarlát]]
 
 
 
