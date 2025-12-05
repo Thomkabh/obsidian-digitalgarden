@@ -42,6 +42,8 @@
 
 ### [[SOTE/Gyermekgyógyászat/19. Fertőző betegségek megelőzése, védőoltások\|19. Fertőző betegségek megelőzése, védőoltások]]
 
+### [[SOTE/Gyermekgyógyászat/20. A szepszis jelei, az első órák teendői\|20. A szepszis jelei, az első órák teendői]]
+
 
 
 
