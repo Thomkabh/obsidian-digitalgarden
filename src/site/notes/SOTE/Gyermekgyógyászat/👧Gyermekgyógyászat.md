@@ -36,6 +36,7 @@
 
 ### [[SOTE/Gyermekgyógyászat/16. Vérzékenységgel járó betegségek\|16. Vérzékenységgel járó betegségek]]
 
+### [[SOTE/Gyermekgyógyászat/17. Anaemia tünetei, kivizsgálása\|17. Anaemia tünetei, kivizsgálása]]
 
 
 
