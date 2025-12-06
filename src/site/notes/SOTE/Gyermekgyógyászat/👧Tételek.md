@@ -54,6 +54,9 @@
 
 ### [[SOTE/Gyermekgyógyászat/25. A fül betegségei\|25. A fül betegségei]]
 
+### [[SOTE/Gyermekgyógyászat/27. Pneumóniák. Életkor szerinti legfőbb kórokozók\|27. Pneumóniák. Életkor szerinti legfőbb kórokozók]]
+
+
 
 
 
