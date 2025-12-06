@@ -62,7 +62,7 @@
 
 ### [[SOTE/Gyermekgyógyászat/30. Központi idegrendszert érintő betegségek alarmírozó jelei, szükséges vizsgálatok. Lumbalpunctio\|30. Központi idegrendszert érintő betegségek alarmírozó jelei, szükséges vizsgálatok. Lumbalpunctio]]
 
-
+### [[SOTE/Gyermekgyógyászat/31. Az idegrendszer gyulladásos betegségei\|31. Az idegrendszer gyulladásos betegségei]]
 
 
 
