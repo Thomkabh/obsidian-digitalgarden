@@ -56,6 +56,8 @@
 
 ### [[SOTE/Gyermekgyógyászat/27. Pneumóniák. Életkor szerinti legfőbb kórokozók\|27. Pneumóniák. Életkor szerinti legfőbb kórokozók]]
 
+### [[SOTE/Gyermekgyógyászat/28. Cisztás fibrózis\|28. Cisztás fibrózis]]
+
 
 
 
