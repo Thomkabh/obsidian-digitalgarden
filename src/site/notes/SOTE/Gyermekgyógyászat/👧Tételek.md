@@ -64,6 +64,8 @@
 
 ### [[SOTE/Gyermekgyógyászat/31. Az idegrendszer gyulladásos betegségei\|31. Az idegrendszer gyulladásos betegségei]]
 
+### [[SOTE/Gyermekgyógyászat/32. N. facialis paresis\|32. N. facialis paresis]]
+
 
 
 
