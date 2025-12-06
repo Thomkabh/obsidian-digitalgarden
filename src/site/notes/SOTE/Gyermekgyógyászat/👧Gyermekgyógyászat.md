@@ -48,6 +48,13 @@
 
 ### [[SOTE/Gyermekgyógyászat/22.Morbilli, rubeola, skarlát\|22.Morbilli, rubeola, skarlát]]
 
+### [[SOTE/Gyermekgyógyászat/23. Szisztémás autoimmun betegségek\|23. Szisztémás autoimmun betegségek]]
+
+### [[SOTE/Gyermekgyógyászat/24. Allergiás betegségek a csecsemő és gyermekkorban. Atópia fogalma\|24. Allergiás betegségek a csecsemő és gyermekkorban. Atópia fogalma]]
+
+### [[SOTE/Gyermekgyógyászat/25. A fül betegségei\|25. A fül betegségei]]
+
+
 
 
 
