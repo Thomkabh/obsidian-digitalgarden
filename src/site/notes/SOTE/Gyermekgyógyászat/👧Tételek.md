@@ -58,6 +58,9 @@
 
 ### [[SOTE/Gyermekgyógyászat/28. Cisztás fibrózis\|28. Cisztás fibrózis]]
 
+### [[SOTE/Gyermekgyógyászat/29. Obstruktív bronchitis, asthma bronchiale, laryngitis subglottica\|29. Obstruktív bronchitis, asthma bronchiale, laryngitis subglottica]]
+
+
 
 
 
