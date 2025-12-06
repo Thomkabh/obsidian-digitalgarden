@@ -60,6 +60,7 @@
 
 ### [[SOTE/Gyermekgyógyászat/29. Obstruktív bronchitis, asthma bronchiale, laryngitis subglottica\|29. Obstruktív bronchitis, asthma bronchiale, laryngitis subglottica]]
 
+### [[SOTE/Gyermekgyógyászat/30. Központi idegrendszert érintő betegségek alarmírozó jelei, szükséges vizsgálatok. Lumbalpunctio\|30. Központi idegrendszert érintő betegségek alarmírozó jelei, szükséges vizsgálatok. Lumbalpunctio]]
 
 
 
