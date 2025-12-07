@@ -76,6 +76,8 @@
 
 ### [[SOTE/Gyermekgyógyászat/37. A kalcium- és foszfátanyagcsere zavarai. Rachitis\|37. A kalcium- és foszfátanyagcsere zavarai. Rachitis]]
 
+### [[SOTE/Gyermekgyógyászat/38. Növekedési zavarok\|38. Növekedési zavarok]]
+
 
 
 
