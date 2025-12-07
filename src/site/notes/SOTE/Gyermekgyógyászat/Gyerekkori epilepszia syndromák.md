@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-hide":true,"permalink":"/sote/gyermekgyogyaszat/gyerekkori-epilepszia-syndromak/","hide":true,"dgPassFrontmatter":true}
 ---
 
+## Gyerekkori epilepszia syndromák
 ### West szindróma:
 - 3-7 hónapos életkorban
 - Infantilis spasmus

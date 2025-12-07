@@ -70,6 +70,8 @@
 
 ### [[SOTE/Gyermekgyógyászat/34. Diabetes mellitus. Diabeteses ketoacidosis kezelése\|34. Diabetes mellitus. Diabeteses ketoacidosis kezelése]]
 
+### [[SOTE/Gyermekgyógyászat/35. A mellékvesekéreg megbetegedései\|35. A mellékvesekéreg megbetegedései]]
+
 
 
 
