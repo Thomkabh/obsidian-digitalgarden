@@ -82,6 +82,8 @@
 
 ### [[SOTE/Gyermekgyógyászat/40. Henoch-Schönlein purpura\|40. Henoch-Schönlein purpura]]
 
+## [[SOTE/Gyermekgyógyászat/41. Kawasaki szindróma. MISC\|41. Kawasaki szindróma. MISC]]
+
 
 
 
