@@ -66,6 +66,14 @@
 
 ### [[SOTE/Gyermekgyógyászat/32. N. facialis paresis\|32. N. facialis paresis]]
 
+### [[SOTE/Gyermekgyógyászat/33. Gyermekkori görcsök, lázgörcs\|33. Gyermekkori görcsök, lázgörcs]]
+
+### [[SOTE/Gyermekgyógyászat/34. Diabetes mellitus. Diabeteses ketoacidosis kezelése\|34. Diabetes mellitus. Diabeteses ketoacidosis kezelése]]
+
+
+
+
+
 
 
 
