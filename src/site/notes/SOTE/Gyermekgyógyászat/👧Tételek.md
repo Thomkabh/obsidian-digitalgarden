@@ -78,7 +78,7 @@
 
 ### [[SOTE/Gyermekgyógyászat/38. Növekedési zavarok\|38. Növekedési zavarok]]
 
-
+### [[SOTE/Gyermekgyógyászat/39. A nemi érés zavarai\|39. A nemi érés zavarai]]
 
 
 
