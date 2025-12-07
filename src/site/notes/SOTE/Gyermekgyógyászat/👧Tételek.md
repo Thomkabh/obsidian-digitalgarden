@@ -86,6 +86,6 @@
 
 ### [[SOTE/Gyermekgyógyászat/42. Húgyúti fertőzések (lokalizáció, lefolyás, kezelés, szövődmények\|42. Húgyúti fertőzések (lokalizáció, lefolyás, kezelés, szövődmények]]
 
-
+### [[SOTE/Gyermekgyógyászat/43. A vesék és húgyutak veleszületett rendellenességei\|43. A vesék és húgyutak veleszületett rendellenességei]]
 
 
