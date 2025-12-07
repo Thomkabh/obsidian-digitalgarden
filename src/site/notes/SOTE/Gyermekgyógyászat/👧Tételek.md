@@ -74,6 +74,7 @@
 
 ### [[SOTE/Gyermekgyógyászat/36. A pajzsmirigy betegségei\|36. A pajzsmirigy betegségei]]
 
+### [[SOTE/Gyermekgyógyászat/37. A kalcium- és foszfátanyagcsere zavarai. Rachitis\|37. A kalcium- és foszfátanyagcsere zavarai. Rachitis]]
 
 
 
