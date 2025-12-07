@@ -72,6 +72,8 @@
 
 ### [[SOTE/Gyermekgyógyászat/35. A mellékvesekéreg megbetegedései\|35. A mellékvesekéreg megbetegedései]]
 
+### [[SOTE/Gyermekgyógyászat/36. A pajzsmirigy betegségei\|36. A pajzsmirigy betegségei]]
+
 
 
 

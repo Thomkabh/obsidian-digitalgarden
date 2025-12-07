@@ -8,5 +8,5 @@
 	- Tömött, hyperaemias, nodularis laesiok
 	- Belső szervi érintettség is kialakulhat
 	- **Kezelés** -> Alapbetegség + doxorubicin
-- [[Casteman-betegség\|Casteman-betegség]]ben is szerepet játszik
+- [[SOTE/Gyermekgyógyászat/Casteman-betegség\|Casteman-betegség]]ben is szerepet játszik
 - Nyál, szex, vérrel terjed
