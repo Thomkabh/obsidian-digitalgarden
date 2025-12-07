@@ -80,6 +80,7 @@
 
 ### [[SOTE/Gyermekgyógyászat/39. A nemi érés zavarai\|39. A nemi érés zavarai]]
 
+### [[SOTE/Gyermekgyógyászat/40. Henoch-Schönlein purpura\|40. Henoch-Schönlein purpura]]
 
 
 
