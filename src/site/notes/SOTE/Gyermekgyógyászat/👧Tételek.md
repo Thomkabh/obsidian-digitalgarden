@@ -100,7 +100,7 @@
 
 ### [[SOTE/Gyermekgyógyászat/49. Cholestasissal járó májbetegségek gyermekkorban\|49. Cholestasissal járó májbetegségek gyermekkorban]]
 
-### [[50. Hepatitist okozó kórképek\|50. Hepatitist okozó kórképek]]
+### [[SOTE/Gyermekgyógyászat/50. Hepatitist okozó kórképek\|50. Hepatitist okozó kórképek]]
 
 ### [[SOTE/Gyermekgyógyászat/51. Hasmenést okozó leggyakoribb fertőzések\|51. Hasmenést okozó leggyakoribb fertőzések]]
 
