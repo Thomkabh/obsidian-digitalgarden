@@ -90,3 +90,5 @@
 
 ### [[SOTE/Gyermekgyógyászat/44. Glomeruláris vesebetegségek (Nephritis)\|44. Glomeruláris vesebetegségek (Nephritis)]]
 
+### [[SOTE/Gyermekgyógyászat/45. Nephrosis szindróma\|45. Nephrosis szindróma]]
+
