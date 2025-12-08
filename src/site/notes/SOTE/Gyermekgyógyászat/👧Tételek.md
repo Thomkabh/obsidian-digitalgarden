@@ -92,3 +92,4 @@
 
 ### [[SOTE/Gyermekgyógyászat/45. Nephrosis szindróma\|45. Nephrosis szindróma]]
 
+### [[SOTE/Gyermekgyógyászat/46. Cyanosissal járó vitiumok\|46. Cyanosissal járó vitiumok]]
