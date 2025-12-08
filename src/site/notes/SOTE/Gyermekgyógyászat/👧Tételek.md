@@ -112,7 +112,7 @@
 
 ## [[SOTE/Gyermekgyógyászat/55. Oedema\|55. Oedema]]
 
-## [[SOTE/Gyermekgyógyászat/56. A sav-bázis háztartás alapelvei és zavarainak kezelése\|56. A sav-bázis háztartás alapelvei és zavarainak kezelése]]
+### [[SOTE/Gyermekgyógyászat/56. A sav-bázis háztartás alapelvei és zavarainak kezelése\|56. A sav-bázis háztartás alapelvei és zavarainak kezelése]]
 
 ### [[SOTE/Gyermekgyógyászat/57. Láz, lázcsillapítás\|57. Láz, lázcsillapítás]]
 
