@@ -88,4 +88,5 @@
 
 ### [[SOTE/Gyermekgyógyászat/43. A vesék és húgyutak veleszületett rendellenességei\|43. A vesék és húgyutak veleszületett rendellenességei]]
 
+### [[SOTE/Gyermekgyógyászat/44. Glomeruláris vesebetegségek (Nephritis)\|44. Glomeruláris vesebetegségek (Nephritis)]]
 
