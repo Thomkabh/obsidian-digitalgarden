@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-pinned":true,"permalink":"/sote/gyermekgyogyaszat/tetelek/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-hide":null,"permalink":"/sote/gyermekgyogyaszat/tetelek/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## <u>Tételek</u>
@@ -103,6 +103,10 @@
 ### [[50. Hepatitist okozó kórképek\|50. Hepatitist okozó kórképek]]
 
 ### [[SOTE/Gyermekgyógyászat/51. Hasmenést okozó leggyakoribb fertőzések\|51. Hasmenést okozó leggyakoribb fertőzések]]
+
+### [[SOTE/Gyermekgyógyászat/52. IBD -Colitis ulcerosa, Crohn betegség\|52. IBD -Colitis ulcerosa, Crohn betegség]]
+
+
 
 
 
