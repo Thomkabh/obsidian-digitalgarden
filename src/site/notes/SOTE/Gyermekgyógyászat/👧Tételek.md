@@ -116,6 +116,8 @@
 
 ### [[SOTE/Gyermekgyógyászat/57. Láz, lázcsillapítás\|57. Láz, lázcsillapítás]]
 
+### [[SOTE/Gyermekgyógyászat/58. Pertussis, influenza, RSV és COVID\|58. Pertussis, influenza, RSV és COVID]]
+
 
 
 
