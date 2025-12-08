@@ -106,6 +106,10 @@
 
 ### [[SOTE/Gyermekgyógyászat/52. IBD -Colitis ulcerosa, Crohn betegség\|52. IBD -Colitis ulcerosa, Crohn betegség]]
 
+### [[SOTE/Gyermekgyógyászat/53. Hasi kórképek alarmírozói jelei\|53. Hasi kórképek alarmírozói jelei]]
+
+
+
 
 
 
