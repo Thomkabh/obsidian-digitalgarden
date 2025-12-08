@@ -98,5 +98,9 @@
 
 ### [[SOTE/Gyermekgyógyászat/48. Malabszorpcióhoz vezető állapotok. Cöliákia\|48. Malabszorpcióhoz vezető állapotok. Cöliákia]]
 
+### [[SOTE/Gyermekgyógyászat/49. Cholestasissal járó májbetegségek gyermekkorban\|49. Cholestasissal járó májbetegségek gyermekkorban]]
+
+
+
 
 
