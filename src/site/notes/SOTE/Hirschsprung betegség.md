@@ -15,7 +15,7 @@
 - Születés utáni nehéz meconium ürítés
 - Puffadás
 - Malabsorptio
-- **Szövödmény**
+- **szövődmény**
 	- Széklet szuperinfekció
 	- Vékonybél ileus és tágulat
 	- Toxicus megacolon

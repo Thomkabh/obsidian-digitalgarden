@@ -39,7 +39,7 @@
 ### Kezelés
 - 1-2 naposan műtét -> nyíilt vagy thoracoscopos
 - Anastomosis vagy pótlás
-- Anastomosis elégtelenség gyakori szövödmény
+- Anastomosis elégtelenség gyakori szövődmény
 - GERD alakul ki utána
 
 ---
@@ -151,7 +151,7 @@
 ### Kezelés
 - Parenterális folyadék
 - Pyloromyotomia
-- Ált. nincs szövödmény
+- Ált. nincs szövődmény
 
 ---
 ## Hernia Diaphragmatica

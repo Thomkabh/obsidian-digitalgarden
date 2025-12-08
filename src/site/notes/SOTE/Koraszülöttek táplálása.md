@@ -22,7 +22,7 @@
 	- Energia: 115-140 kcal/kg/nap
 	- Fehérje: 3,5-4,5 g/kg/nap
 - Colostrum/Anyatej EN táplálás fontos 
-	- IR, szem, koraszülött szövödmények risk csökk.
+	- IR, szem, koraszülött szövődmények risk csökk.
 
 ##### TPN (Teljes Parenterális Nutrició)
 - Előny
