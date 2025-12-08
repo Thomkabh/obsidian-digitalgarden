@@ -108,6 +108,10 @@
 
 ### [[SOTE/Gyermekgyógyászat/53. Hasi kórképek alarmírozói jelei\|53. Hasi kórképek alarmírozói jelei]]
 
+### [[SOTE/Gyermekgyógyászat/54. Enuresis. Polyuria és polydypsia\|54. Enuresis. Polyuria és polydypsia]]
+
+
+
 
 
 
