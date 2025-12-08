@@ -96,3 +96,7 @@
 
 ### [[SOTE/Gyermekgyógyászat/47. Acyanotikus vitiumok\|47. Acyanotikus vitiumok]]
 
+### [[SOTE/Gyermekgyógyászat/48. Malabszorpcióhoz vezető állapotok. Cöliákia\|48. Malabszorpcióhoz vezető állapotok. Cöliákia]]
+
+
+
