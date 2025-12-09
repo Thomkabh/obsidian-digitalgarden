@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-hide":true,"permalink":"/sote/skarlat-voerheny/","hide":true,"dgPassFrontmatter":true}
 ---
 
+## Skarlát (vörheny)
 ### Kórokozó
 - <mark style="background: #FFF3A3A6;">S. Pyogenes (GAS) exotoxin-A</mark> miatt
 ### Előfordulás

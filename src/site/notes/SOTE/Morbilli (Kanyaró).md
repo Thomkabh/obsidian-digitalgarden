@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-hide":true,"permalink":"/sote/morbilli-kanyaro/","hide":true,"dgPassFrontmatter":true}
 ---
 
+## Morbilli (Kanyaró)
 ### Kórokozó
 - Paramyxoviridae -> *Kanyaróvírus*
 - ssRNS

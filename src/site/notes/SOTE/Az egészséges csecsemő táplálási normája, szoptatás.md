@@ -4,7 +4,7 @@
 
 ### Az egészséges csecsemő táplálási normája, szoptatás
 
--<mark style="background: #D2B3FFA6;"> Az egészséges újszülött optimális táplálása az első hat hónapban az igény szerinti, válaszkész, kizárólagos szoptatás</mark>
+- <mark style="background: #D2B3FFA6;"> Az egészséges újszülött optimális táplálása az első hat hónapban az igény szerinti, válaszkész, kizárólagos szoptatás</mark>
 	- *Igény szerint*
 	- *Bármikor*
 	- *Bármeddig*
